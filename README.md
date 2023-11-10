@@ -4,8 +4,8 @@
     
 </head>
 <body>
-    <h1>👋 Olá, sou Vitor!</h1>
-    <p>Novo no mundo da programação e apaixonado por desafios de código. Comprometido com o aprendizado contínuo e contribuições para projetos open source! 💻🚀</p>
+    <h1>👋 Hi, I'm Vitor!</h1>
+    <p>I'm new to the world of programming and passionate about code challenges. Committed to continuous learning and contributions to open source projects! 💻🚀</p>
 </body>
 </html>
 
